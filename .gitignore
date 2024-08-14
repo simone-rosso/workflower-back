@@ -24,3 +24,4 @@ go.work.sum
 # env file
 .env
 .node_modules
+.workflower-firebase-adminsdk-mf5pk-28e84b00e2.json
